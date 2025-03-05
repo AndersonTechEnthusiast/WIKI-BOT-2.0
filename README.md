@@ -66,13 +66,6 @@ Wiki-Bot/
 │-- README.md                 # Documentação do projeto
 ```
 
-## ⚠ Possíveis Erros e Soluções
-
-| Erro                                                            | Solução                                                              |
-| --------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **ModuleNotFoundError**: Alguma biblioteca está faltando        | Execute `pip install -r requirements.txt` para instalar dependências |
-| **UnicodeEncodeError**: Problema ao exibir caracteres especiais | Tente rodar `chcp 65001` no terminal antes de executar o script      |
-| **Requisição falhou**: Wikipedia não responde                   | Verifique sua conexão com a internet                                 |
 
 ## 💪 Contribuição
 
@@ -80,7 +73,7 @@ Fique à vontade para sugerir melhorias e abrir pull requests!
 
 ## ✨ Autor
 
-- **Desenvolvedor**: [Seu Nome](https://github.com/seu-github)
+- **Desenvolvedor**: [Anderson P](https://github.com/AndersonTechEnthusiast)
 
 ---
 
